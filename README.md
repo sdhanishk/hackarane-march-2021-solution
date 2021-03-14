@@ -1,3 +1,15 @@
+# Hackarane setup
+
+```
+npm intall
+```
+
+```
+npm run dev
+```
+
+- Open /front-end/index.html in browser and view the data in console.
+
 # Express API Starter
 
 Includes API Server utilities:
